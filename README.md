@@ -5,8 +5,7 @@
 این پروژه یک فروشگاه آنلاین برای فروش پرده است که با استفاده از WordPress و WooCommerce توسعه داده شده است.
 
 ## آدرس سایت:
-[https://omidcurtain.ir](https://omidcurtain.ir)
-
+<a href="https://omidcurtain.ir" rel="follow">...</a>
 ## ویژگی‌ها:
 - طراحی واکنش‌گرا و سازگار با موبایل
 - توسعه اختصاصی فرم سفارش پرده بر اساس اندازه و جنس
